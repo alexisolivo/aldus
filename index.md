@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Proyecto Aldus
 
-You can use the [editor on GitHub](https://github.com/alexisolivo/aldus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El proyecto Aldus se inicia para conciliar bajo un solo paquete varios paquetes de Software Libre que se usan para la creación digital de sonido, animación, 3D, ilustración vectorial y edición de imágenes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El nombre rinde tributo al tipógrafo italiano Aldus Maguncio.
 
-### Markdown
+### Desarrollo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
